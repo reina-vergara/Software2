@@ -108,5 +108,6 @@ public class JavaApplication1 extends javax.swing.JFrame {
     private javax.swing.JButton btnSaludador;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JTextField txtNombre;
-    // End of variables declaration                   
+    // End of variables declaration 
+    //Cambiar de color 
 }
